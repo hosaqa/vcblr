@@ -1,0 +1,6 @@
+.Form {
+}
+
+.Form__row:not(:last-child) {
+  margin: 0 0 12px;
+}

@@ -1,0 +1,19 @@
+{
+  "extends": [
+    "eslint:recommended",
+    "plugin:react/recommended",
+    "plugin:@typescript-eslint/recommended",
+    "@typescript-eslint",
+    "prettier/@typescript-eslint"
+  ],
+  "parser": "@typescript-eslint/parser",
+  "rules": {
+    "jsx-quotes": [1, "prefer-double"],
+    "react-hooks/exhaustive-deps": "off"
+  },
+  "env": {
+    "browser": true,
+    "node": true
+  },
+  "plugins": ["prettier", "react-hooks"]
+}
