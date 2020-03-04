@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button UI default params and text renders properly 1`] = `ShallowWrapper {}`;
+
+exports[`Button UI html attributes renders properly 1`] = `ShallowWrapper {}`;
+
+exports[`Button UI secondary type and custom classname renders properly 1`] = `ShallowWrapper {}`;

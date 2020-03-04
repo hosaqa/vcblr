@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Textfield UI custom class renders properly 1`] = `ShallowWrapper {}`;
+
+exports[`Textfield UI default props renders properly 1`] = `ShallowWrapper {}`;
+
+exports[`Textfield UI html attributes on input renders properly 1`] = `ShallowWrapper {}`;

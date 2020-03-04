@@ -3,7 +3,7 @@ import clsx from 'clsx';
 import './Button.css';
 
 interface IButton extends React.ButtonHTMLAttributes<HTMLButtonElement> {
-  variant?: string;
+  variant?: 'primary' | 'secondary';
   className?: string;
   children?: React.ReactNode;
 }
