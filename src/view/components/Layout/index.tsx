@@ -1,13 +1,3 @@
-import React from 'react';
-import './Layout.css';
-import AddWordForm from '../AddWordForm';
-
-const Layout = () => (
-  <main className="Layout">
-    <div className="Layout__content">
-      <AddWordForm />
-    </div>
-  </main>
-);
+import Layout from './Layout';
 
 export default Layout;
